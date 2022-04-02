@@ -19,8 +19,8 @@ https://santas-note-taker.herokuapp.com/
 https://github.com/cheesecakeassassin/santas-note-taker
 
 ## Working page screenshots 
-<img src="./assets/images/santas-note-taker-1.png">
-<img src="./assets/images/santas-note-taker-2.png">
+<img src="./public/assets/images/santas-note-taker-1.png">
+<img src="./public/assets/images/santas-note-taker-2.png">
 
 ## Contributions
 ❤️Made by [Sebastian Santa]
